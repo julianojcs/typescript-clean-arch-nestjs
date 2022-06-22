@@ -70,6 +70,7 @@ $ nest generate [artefact] [name]
 $ nest g resource routes
 ```
 
+### Instalar SQLite + TypeORM
 ```bash
 $ npm i sqlite3 typeorm @nestjs/typeorm --save
 ```
